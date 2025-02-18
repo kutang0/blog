@@ -5,9 +5,7 @@ title: About Me
 
 <img class="profile-picture" src="{{site.baseurl}}/{{site.profile-picture}}">
 
-I'm Dilbert. I've been working as a Software Engineer for over 30 years. I like to innovate to solve challenging problems using technology. I work with a great Engineering team, but we have a good-for-nothing and clueless manager, who can be replaced with a monkey and the change would be for the better.
-
-On a personal front, I live with two amazing pets - Dogbert and Ratbert, and three dinasours - Bob, Rex and Dawn - who're hiding from the rest of the world. I'm single and have few friends due to my poor social skills, but I usually spend my time playing with computers and technology.
+Hi, I'm Theo, I am currently developing software for surgical robots. Although my career path has been somewhat complex, drawn into the field of robotics in unexpected ways, I now enjoy understanding and working with abstract concepts. I develop surgical robot platforms using C++, and at home, I spend time exploring mathematics. I also enjoy discussing math with various people on the YouTube channel, EnjoyMath. After work, I cherish happy moments with my beloved son, Theo, and my wife as well.
 
 ### Life Advice
 Here are a few things I've learned over the years,
@@ -22,4 +20,3 @@ Here are a few things I've learned over the years,
 2. Alice, Dilbert, Wally: "Efficient ways to deal with a dumb manager", _Conference of Frustrated Engineers_
 
 ### Contact Me
-No thanks, I have enough problems of my own to deal with.
