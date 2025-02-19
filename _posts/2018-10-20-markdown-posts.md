@@ -72,9 +72,11 @@ for version control using Git
 
 
 **Here is a Latex**
-Circle : $x^2 + y^2 = r^2$
+
+Circle : $$x^2 + y^2 = r^2$$
 
 
 $$
 E = mc^2
 $$
+
