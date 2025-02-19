@@ -69,3 +69,12 @@ for version control using Git
 
 **Here is an image,**<br>
 ![](../assets/autumn.jpg)
+
+
+**Here is a Latex**
+Circle : $x^2 + y^2 = r^2$
+
+
+$$
+E = mc^2
+$$
